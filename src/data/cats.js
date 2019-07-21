@@ -2,6 +2,7 @@ export default [
   {
     name: ' Hillary',
     breed: 'mut',
+    species: 'cats',
     gender: 'female',
     age: 17,
     color: 'oringe/white',
@@ -12,6 +13,7 @@ export default [
   {
     name: ' Hillary',
     breed: 'mut',
+    species: 'cats',
     gender: 'female',
     age: 17,
     color: 'oringe/white',
@@ -22,6 +24,7 @@ export default [
   {
     name: ' Hillary',
     breed: 'mut',
+    species: 'cats',
     gender: 'female',
     age: 17,
     color: 'oringe/white',
@@ -32,6 +35,7 @@ export default [
   {
     name: ' Hillary',
     breed: 'mut',
+    species: 'cats',
     gender: 'female',
     age: 17,
     color: 'oringe/white',
@@ -42,6 +46,7 @@ export default [
   {
     name: ' Hillary',
     breed: 'mut',
+    species: 'cats',
     gender: 'female',
     age: 17,
     color: 'oringe/white',
